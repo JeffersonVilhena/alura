@@ -73,10 +73,14 @@ h2{
 .produto-descricao{
     font-size: 18px;
 }
-.produto-preco{
-    font-size: 22px;
-    font-weight: bold;
-    margin-top: 10px;
+
+.produto-preco {
+    font-size:20px;
+    margin-top: 8px;
+    font-weight:bold;
 }
-
-
+footer {
+    text-align:center;
+    background: url("./imagens/bg.jpg");
+    padding: 40px 0;
+}

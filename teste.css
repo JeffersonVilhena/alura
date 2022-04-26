@@ -1,0 +1,27 @@
+.caixa{
+    position:relative;
+    width: 940px;
+    margin: 0 auto;
+    background-color:gray;
+    border: 2px solid #000000;
+    border-radius:10px;
+}
+
+.lista li{
+    text-align:center;
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 30%;
+}
+
+.lista li:hover{
+    font-size: 32px;
+    
+}
+
+.lista li:active{
+    color: green;
+}
